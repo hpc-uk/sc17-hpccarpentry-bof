@@ -6,33 +6,21 @@ http://sc17.supercomputing.org/presentation/?id=bof125&sess=sess359
 
 ## Agenda
 
-  - 17:15	[Introduction and goals of session](#goals-of-session)
-
-  - 17:25	What is Carpentry?: Christina Koch
-
-  - 17:30       Target audiences and learning outcomes: Christina Koch
-
-  - 17:35       Activity: Learner profiles
-                + Group 1 Notes
-                + Group 2 Notes
-                + Group 3 Notes
-                + Group 4 Notes
-                + Group 5 Notes
-
-  - 18:05       Lessons and structure: Bob Freeman
-
-  - 18:10       Activity: Course and module design
-                + Group 1 Notes
-                + Group 2 Notes
-                + Group 3 Notes
-                + Group 4 Notes
-                + Group 5 Notes
-
-  - 18:40       Ongoing support: Andy Turner
-
-  - 18:45       Conclusions and next steps
-
-  - 19:00       Finish
+* 17:15	[Introduction and goals of session](#goals-of-session)
+* 17:25	What is Carpentry?: Christina Koch
+* 17:30       Target audiences and learning outcomes: Christina Koch
+* 17:35       Activity: Learner profiles
+  + [Group 1 Notes](https://docs.google.com/document/d/1tNUdl913eAGGREdAQTT5QuWyO7PVAx3dxddeL4xC7ig/edit?usp=sharing)
+  + Group 2 Notes
+  + Group 3 Notes
+  + Group 4 Notes
+  + Group 5 Notes
+* 18:05       Lessons and structure: Bob Freeman
+* 18:10       Activity: Course and module design
+  + [Group 1 Notes](https://docs.google.com/document/d/1tNUdl913eAGGREdAQTT5QuWyO7PVAx3dxddeL4xC7ig/edit?usp=sharing)
+* 18:40       Ongoing support: Andy Turner
+* 18:45       Conclusions and next steps
+* 19:00       Finish
 
 ## Goals of session
 
@@ -43,8 +31,8 @@ important for people just getting started with high throughput and high performa
 computing, as they make researchers more effective and make the most efficient use of
 resources. Given the success of the Carpentry series in equipping researchers with the
 basic, practical skills required to manage and develop their software and scripts
-((Software Carpentry)[https://software-carpentry.org/]) and data analysis
-((Data Carpentry)[http://www.datacarpentry.org/]) it is natural to take the
+([Software Carpentry](https://software-carpentry.org/)) and data analysis
+([Data Carpentry](http://www.datacarpentry.org/)) it is natural to take the
 Carpentry approach and apply it to HPC.
 
 In this BOF we will gather input from the experts in the HPC community on the Goals, Design,
