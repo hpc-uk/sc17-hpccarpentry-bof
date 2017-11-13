@@ -25,7 +25,7 @@ http://sc17.supercomputing.org/presentation/?id=bof125&sess=sess359
   + [Group 1 Notes](https://docs.google.com/document/d/1tNUdl913eAGGREdAQTT5QuWyO7PVAx3dxddeL4xC7ig/edit?usp=sharing)
   + ...
 * 18:40 Ongoing support: Andy Turner
-  + [Link to slides](Presentations/SC17_HPCCarpentry_BoF_Ongoing_AndyT.pptx)
+  + [Link to slides](Presentations/SC17_HPCCarpentry_BoF_Ongoing_AndyT.pdf)
 * 18:45 Wrap up and next steps
 * 19:00 Finish
 
