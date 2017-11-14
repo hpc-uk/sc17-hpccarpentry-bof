@@ -6,27 +6,23 @@ http://sc17.supercomputing.org/presentation/?id=bof125&sess=sess359
 
 ## Agenda
 
-* 17:15	[Introduction and goals of session](#goals-of-session)
+* 17:15	Introduction: Andy Turner
+  + [Link to Slides](Presentations/SC17_HPCCarpentry_BoF_Intro_AndyT.pdf)
 * 17:20 Activity: What do you want to get out of this BoF?
-  + [Link to Google Doc](https://docs.google.com/document/d/1wgIXCVExrHY716xCU9feo8nA0Su8_5l0-rE5DmuBILw/edit?usp=sharing)
-* 17:25	What is Carpentry?: Christina Koch
-  + Link to slides
-* 17:30 Target audiences and learning outcomes: Christina Koch
-  + Link to slides
+  + [Link to Q&A](https://qna.live/sc17/Ym9mMTI1/)
+* 17:25	What is Carpentry?, Target audiences: Christina Koch
+  + [Link to slides](SC17_HPCCarpentry_BoF_CarpentryLearners_ChristinaK.pdf)
 * 17:35 Activity: Learner profiles
-  + [Group 1 Notes](https://docs.google.com/document/d/1tNUdl913eAGGREdAQTT5QuWyO7PVAx3dxddeL4xC7ig/edit?usp=sharing)
-  + Group 2 Notes
-  + Group 3 Notes
-  + Group 4 Notes
-  + Group 5 Notes
-* 18:05 Lessons and structure: Bob Freeman
+  + [Discussion Notes Documents](#discussion-notes)
+* 18:00 Lessons and structure: Bob Freeman
   + Link to slides
-* 18:10 Activity: Course and module design
-  + [Group 1 Notes](https://docs.google.com/document/d/1tNUdl913eAGGREdAQTT5QuWyO7PVAx3dxddeL4xC7ig/edit?usp=sharing)
-  + ...
-* 18:40 Ongoing support: Andy Turner
-  + [Link to slides](Presentations/SC17_HPCCarpentry_BoF_Ongoing_AndyT.pdf)
-* 18:45 Wrap up and next steps
+* 18:05 Activity: Course and module design
+  + [Discussion Notes Documents](#discussion-notes)
+* 18:30 Ongoing support: Andy Turner
+  + [Link to slides](Presentations/SC17_HPCCarpentry_BoF_Support_AndyT.pdf)
+* 18:35 Activity: What ongoing support is needed/available?
+  + [Discussion Notes Documents](#discussion-notes)
+* 18:50 Wrap up and next steps
 * 19:00 Finish
 
 ## Goals of session
@@ -68,15 +64,31 @@ experiences from the initial events.
 
 ## Activities
 
+### Discussion Notes
+
+* [Group 1 Notes](https://docs.google.com/document/d/1tNUdl913eAGGREdAQTT5QuWyO7PVAx3dxddeL4xC7ig/edit?usp=sharing)
+* [Group 2 Notes](https://docs.google.com/document/d/1Rceo3gEh_CXYmKTeZPzxJbfqWrULKuZ-gBuESeyIN4Y/edit?usp=sharing)
+* [Group 3 Notes](https://docs.google.com/document/d/15reDV1Kc5lqxOBxydHNTzbm6F6WGvyKdWyzQSWjL8Ek/edit?usp=sharing)
+* [Group 4 Notes](https://docs.google.com/document/d/1Mqlknp2FJxoPzmYdBjsIMN20SiJfCC8CZtJy4usFFyA/edit?usp=sharing)
+* [Group 5 Notes](https://docs.google.com/document/d/1PLXuI8FCSyEzzmRc5DXwQwnkUnCvgfbUHEN8l3aehxE/edit?usp=sharing)
+
 ### Learner profiles
 
 In this activity, the discussion groups will design and discuss learner profiles for 
-HPC Carpentry courses.
+HPC Carpentry courses to get an understanding of who HPC Carpentry should be targetting
+and what they should learn from the course.
 
 ### Course and module design
 
 Discussion groups will work to design an HPC Carpentry course and specify which modules
-should be included.
+should be included to understand what formats HPC Carpentry could be rpesented in and 
+what different lessons/modules need to be included and in what order.
+
+### Ongoing Support and Community Integration
+
+Groups will work to understand what ongoing support and integration is currently available
+and what is missing to understand hwo we can maximise the impact of HPC Carpentry on
+learners and where it fits in the wider HPC training landscape.
 
 ## Session leaders
 
