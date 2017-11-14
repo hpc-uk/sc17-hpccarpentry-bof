@@ -81,7 +81,7 @@ and what they should learn from the course.
 ### Course and module design
 
 Discussion groups will work to design an HPC Carpentry course and specify which modules
-should be included to understand what formats HPC Carpentry could be rpesented in and 
+should be included to understand what formats HPC Carpentry could be presented in and 
 what different lessons/modules need to be included and in what order.
 
 ### Ongoing Support and Community Integration
