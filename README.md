@@ -15,7 +15,7 @@ http://sc17.supercomputing.org/presentation/?id=bof125&sess=sess359
 * 17:35 Activity: Learner profiles
   + [Discussion Notes Documents](#discussion-notes)
 * 18:00 Lessons and structure: Bob Freeman
-  + Link to slides
+  + [Link to slides](Presentations/SC17_HPCCarpentry_BoF_Lessons_BobF.pdf)
 * 18:05 Activity: Course and module design
   + [Discussion Notes Documents](#discussion-notes)
 * 18:30 Ongoing support: Andy Turner
