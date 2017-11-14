@@ -11,7 +11,7 @@ http://sc17.supercomputing.org/presentation/?id=bof125&sess=sess359
 * 17:20 Activity: What do you want to get out of this BoF?
   + [Link to Q&A](https://qna.live/sc17/Ym9mMTI1/)
 * 17:25	What is Carpentry?, Target audiences: Christina Koch
-  + [Link to slides](SC17_HPCCarpentry_BoF_CarpentryLearners_ChristinaK.pdf)
+  + [Link to slides](Presentations/SC17_HPCCarpentry_BoF_CarpentryLearners_ChristinaK.pdf)
 * 17:35 Activity: Learner profiles
   + [Discussion Notes Documents](#discussion-notes)
 * 18:00 Lessons and structure: Bob Freeman
