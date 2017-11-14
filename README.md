@@ -84,7 +84,7 @@ This Birds of a Feather session was organized by:
 
 * [Andy Turner](https://sc17.supercomputing.org/?post_type=page&p=5406&fn=andrew&ln=turner&uid=712473), Edinburgh Parallel Computing Centre
 * [Christina Koch](http://sc17.supercomputing.org/?post_type=page&p=5406&fn=christina&ln=koch&uid=109963), University of Wisconsin
-* [Tracy Teal](http://sc17.supercomputing.org/?post_type=page&p=5406&fn=tracy&ln=teal&uid=295473), Michigan State University
+* [Tracy Teal](http://sc17.supercomputing.org/?post_type=page&p=5406&fn=tracy&ln=teal&uid=295473), Data Carpentry
 * [Robert Freeman Jr](http://sc17.supercomputing.org/?post_type=page&p=5406&fn=robert&ln=freeman_jr&uid=395473), Harvard University
 * [Chris Bording](http://sc17.supercomputing.org/?post_type=page&p=5406&fn=chris&ln=bording&uid=041573), Pawsey Supercomputing Centre
 * [Martin Callaghan](http://sc17.supercomputing.org/?post_type=page&p=5406&fn=martin&ln=callaghan&uid=141573), University of Leeds
