@@ -2,7 +2,7 @@
 
 **Tuesday, November 14th, 17:15 - 19:00, Rooms 301-303**
 
-http://sc17.supercomputing.org/presentation/?id=bof125&sess=sess359
+[http://sc17.supercomputing.org/presentation/?id=bof125&sess=sess359](http://sc17.supercomputing.org/presentation/?id=bof125&sess=sess359)
 
 ## Agenda
 
