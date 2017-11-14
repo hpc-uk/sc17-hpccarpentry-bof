@@ -17,6 +17,7 @@
 * 18:00 Lessons and structure: Bob Freeman
   + [Link to slides](Presentations/SC17_HPCCarpentry_BoF_Lessons_BobF.pdf)
 * 18:05 Activity: Course and module design
+  + [Link to example workshop lessons](Presentations/SC17_HPCCarpentry_BoF_Example_Lessons.pdf)
   + [Discussion Notes Documents](#discussion-notes)
 * 18:30 Ongoing support: Andy Turner
   + [Link to slides](Presentations/SC17_HPCCarpentry_BoF_Support_AndyT.pdf)
