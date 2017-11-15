@@ -67,6 +67,8 @@ experiences from the initial events.
 
 * [HPC in a Day carpentry lesson prototype](http://swcarpentry.github.io/hpc-novice/)
   + [Associated Github repo](https://github.com/swcarpentry/hpc-novice)
+* [Initial list of UK HPC training at HPC-UK](http://www.hpc-uk.ac.uk/training/)
+* [ARCHER HPC training course routes flowchart](http://www.archer.ac.uk/training/courses/#routes)
 
 ## Activities
 
