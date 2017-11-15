@@ -63,6 +63,11 @@ We plan to run the first instances of HPC Carpentry before SC'18 and will submit
 a follow-on BOF to continue the community development of HPC Carpentry by sharing
 experiences from the initial events.
 
+## Useful links
+
+* [HPC in a Day carpentry lesson prototype](http://swcarpentry.github.io/hpc-novice/)
+  + [Associated Github repo](https://github.com/swcarpentry/hpc-novice)
+
 ## Activities
 
 ### What do you want to get out of this BoF?
