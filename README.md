@@ -65,6 +65,24 @@ experiences from the initial events.
 
 ## Activities
 
+### What do you want to get out of this BoF?
+
+1. Votes: 33 Understand requirements for HPC Carpentry training from HPC community
+2. Votes: 19 Come to some sort of consensus on a curriculum for HPCCarpentry
+3. Votes: 18 What is HPC Carpentry?
+4. Votes: 17 What audience are you designing your curriculum for? Very introductory like Software Carpentry (i.e. what is git? --> what is MPI?)
+5. Votes: 15 Determine best practices for HPC carpentry sessions (tools or resources that can be used)
+6. Votes: 13 What is the current state of HPC carpentry?
+7. Votes: 12 Build links with interested people to help build the most useful HPC Carpentry training
+8. Votes: 7 Engage wider HPC community with HPC Carpentry activities
+9. Votes: 6 What is HPC carpentry ?
+10. Votes: 5 Provide input on HPC Carpentry curriculum.
+11. Votes: 3 Propose HPC carpentry as a home for links to vetted and useful training, such as that published by TACC or Shodor.
+12. Votes: 2 What ideas, decisions and processes can I walk away from the BoF with that will improve my code craftsmanship going forward?
+13. Votes: 1 The software carpentry learner profile example: https://software-carpentry.org/audience/
+14. Votes: 1 Understand what HPC Programing actually is? Is it multi-threaded, multi-node, GPU/Accelerators ? A hybrid of all three?
+15. Votes: -4 What languages should we focus on for HPC Carpentry?
+
 ### Discussion Notes
 
 * [Group 1 Notes](https://docs.google.com/document/d/1tNUdl913eAGGREdAQTT5QuWyO7PVAx3dxddeL4xC7ig/edit?usp=sharing)
