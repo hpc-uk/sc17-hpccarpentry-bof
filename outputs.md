@@ -1,6 +1,8 @@
 ---
 ---
 
+# BoF group activity analysis
+
 This document contains the analysed results from the group activities at the HPC Carpentry BoF at SC17.
 
 * Actitivity 1: Groups were asked to brainstorm the characteristics of a potential learner on an
@@ -12,9 +14,9 @@ This document contains the analysed results from the group activities at the HPC
   use HPC to help improve their research; the group was asked to specify what subjects should be
   covered in an HPC Carpentry course.
 
-## Learner Profile
+## Learner Profile
 
-### Most important characteristics
+### Most important characteristics
 
 Three groups produced sets of what they considered the most important characteristics of learners. Analysing
 these sets leads to 4 main characteristics of a potential learner:
@@ -45,6 +47,14 @@ Analysing the feedback from the groups, there were a number of common charateris
   + G5: I’ve never used a command line.
   + G5: I’ve never used a compiler.
 
+* I am not sure how HPC can help my research?
+  + G1: Why do I care?  
+  + G2: New graduate student in sciences/engineering
+  + G2: Are only using HPC because their Advising professor told them to
+  + G2: Biologists becoming bioinformaticians
+  + G2: Usually stuck or bogged down due to limitation of current machine/resources
+  + G4: Do I have a use for HPC?
+
 * Just give me what I need to get on with my research on HPC
   + G1: I just want to do my science
   + G1: I want it to be interactive
@@ -71,13 +81,6 @@ Analysing the feedback from the groups, there were a number of common charateris
   + G4: Overview of HPC technologies - eg what’s a GPU and what is it good for?
   + G4: Concepts of why we use HPC systems and what they are
 
-* I am not sure how HPC can help my research?
-  + G1: Why do I care?  
-  + G2: New graduate student in sciences/engineering
-  + G2: Are only using HPC because their Advising professor told them to
-  + G2: Biologists becoming bioinformaticians
-  + G2: Usually stuck or bogged down due to limitation of current machine/resources
-  + G4: Do I have a use for HPC?
 
 * HPC and programming are awesome, but I do not know much, tell me more!
   + G1: I just want to learn the “cool” stuff
@@ -120,5 +123,9 @@ Analysing the feedback from the groups, there were a number of common charateris
   + G2: All are good scientists in their own field with computing or data needs
   + G4: Generally have a science background, but not programming or comp.sci. Have taken 1 or 2 basic programming courses.
   + G4: Have run my apps on my laptop, but now want to go to the next level.
+
+## Course and module design
+
+
 
 
