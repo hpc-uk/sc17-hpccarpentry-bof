@@ -92,7 +92,7 @@ This section has now been updated with analysis of the activity outputs
 14. Votes: 1 Understand what HPC Programing actually is? Is it multi-threaded, multi-node, GPU/Accelerators ? A hybrid of all three?
 15. Votes: -4 What languages should we focus on for HPC Carpentry?
 
-### Analysis of exercise outputs
+### Analysis of exercise outputs
 
 * [Analysis of the exercise outputs](outputs.html)
 

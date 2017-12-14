@@ -47,7 +47,7 @@ statements from the groups that gave rise to these groups can be seen in Appendi
 
 The collected outputs from each of the groups for this exercise can be seen in Appendix A below.
 
-### Commonly-identified skills and topics
+### Commonly-identified skills and topics
 
 There were a number of key, generic skills that were commonly identified across multiple groups:
 
@@ -90,20 +90,20 @@ Some skills were specific to the HPC system being used:
   + File retention policies
   + How to get help
 
-### Prerequisite skills
+### Prerequisite skills
 
 Other skills were raised but some groups thought they were prerequisites to the course:
 
 * Basic shell use and scripting
   + People could complete Codecademy track before attending: https://www.codecademy.com/catalog/language/bash
 
-### More advanced skills
+### More advanced skills
 
 Finally, some skills were seen to belong to more advanced or different courses
 
 * Workflow optimisation
 
-### Other skills and topics
+### Other skills and topics
 
 There were a number of ideas that were suggested by single groups rather than appearing 
 across multiple groups:
