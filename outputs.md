@@ -29,6 +29,90 @@ these sets leads to 4 main characteristics of a potential learner:
 
 ### Grouped charateristics
 
+Analysing the feedback from the groups, there were a number of common charateristic groupings. The individual
+statements from the groups that gave rise to these groups can be seen in Appendix A below.
+
+* I do not have the basic technical skills to use HPC
+* I am not sure how HPC can help my research?
+* Just give me what I need to get on with my research on HPC
+* What is an HPC system anyway? How does it differ from the comupter I am already using? What about "the Cloud"?
+* HPC and programming are awesome, but I do not know much, tell me more!
+* How do I get help and/or help my self when I get stuck?
+* I feel unsure and out of my depth with HPC
+* I do not understand the shared nature of HPC systems
+* I am experienced technically, what do I need to know about HPC?
+* Broad range of expertise and experience among researchers
+
+## Course and module design
+
+The collected outputs from each of the groups for this exercise can be seen in Appendix A below.
+
+### Commonly-identified skills and topics
+
+There were a number of key, generic skills that were commonly identified across multiple groups:
+
+* Why HPC?
+* Login, interactive access (ssh); transferring data (scp)
+* HPC jargon
+* Basic understanding of HPC architectures and practical implications for their use
+  + HPC system components: processors, memory, I/O, interconnects
+  + Parallelism
+  + Performance: stong/weak scaling, speedup, best practice and basic metrics
+  + Comparison: laptop, HPC, cloud
+* File systems
+  + Multiple file systems
+  + Users and groups
+  + File permissions
+  + File organisation
+* In-terminal text editors
+  + Why do I need this skill?
+* modules, environment, applications
+  + Executing applications
+  + Executing parallel applications (OpenMP, MPI)
+  + The PATH
+  + module load ...
+  + Compiling (parallel) applications
+* The batch system and writing job submission scripts
+  + Basic concepts
+  + Batch system options
+  + STDOUT/STDERR
+  + Different job types: traditional MPI HPC, task farming, ...
+  + Best practice and troubleshooting
+* Shared system etiquette
+  + Being a good HPC citizen
+* Troubleshooting strategies
+
+Some skills were specific to the HPC system being used:
+
+* How to get account and access the system
+* System specific information, e.g.
+  + Key information on using the system
+  + File retention policies
+  + How to get help
+
+### Prerequisite skills
+
+Other skills were raised but some groups thought they were prerequisites to the course:
+
+* Basic shell use and scripting
+  + People could complete Codecademy track before attending: https://www.codecademy.com/catalog/language/bash
+
+### More advanced skills
+
+Finally, some skills were seen to belong to more advanced or different courses
+
+* Workflow optimisation
+
+### Other skills and topics
+
+There were a number of ideas that were suggested by single groups rather than appearing 
+across multiple groups:
+
+* Version control (git) in HPC workflow
+* Markdown for documentation
+
+## Appendix A: Collected responses for Learner Profile exercise
+
 Analysing the feedback from the groups, there were a number of common charateristic groupings:
 
 * I do not have the basic technical skills to use HPC
@@ -118,181 +202,155 @@ Analysing the feedback from the groups, there were a number of common charateris
   + G5: Lacks knowledge or experience of exploiting parallelism.
   + G5: I lack knowledge of optimisation or low level performance.
 
-* Broad range of expertsie and experience among researchers
+* Broad range of expertise and experience among researchers
   + G2: Broad spectrum -- some quite good programmers, just not familiar with HPC
   + G2: All are good scientists in their own field with computing or data needs
   + G4: Generally have a science background, but not programming or comp.sci. Have taken 1 or 2 basic programming courses.
   + G4: Have run my apps on my laptop, but now want to go to the next level.
 
-## Course and module design
+## Appendix B: Collected responses for Course and Module Design exercise
 
-There were a number of key, generic skills that were commonly identified across multiple groups:
-
-* Login, interactive access (ssh); transferring data (scp)
-* Basic understanding of HPC architectures and practical implications for their use
-* The batch system and writing job submission scripts
-
-Some skills were specific to the HPC system being used:
-
-* How to get account and access the system
-
-Group1:
+### Group1
 
 Brainstorm the 5 – 10 skills you would like the provided user profile to have by the end of the workshop, and translate these skills into specific learning objectives, and group these learning objectives.
 
-How do I get an account?  How to get access? What is the status of my account?
+* How do I get an account?  How to get access? What is the status of my account?
+* How to sign on to the system - portal? Ssh? Off campus?
+* Cluster Architecture (building a mental model of an HPC system starting from their desktop/laptop, highlight the system components and translate them to HPC system architecture)
+  + What is a compute node
+  + What is a storage node
+  + Login vs compute node
+  + Network and it’s importance
+  + File system (shared) 
+* Basic linux - 
+  + what is a shell?  
+  + Basic commands, navigation, creating and saving files
+* Basic scripting
+* Editor
+* How to be a user
+  + File management
+  + being in a group
+  + Center policies - how long can I keep my files, backup policies, scheduled downtime 
+  + Being a good citizen
+  + How to get help
+  + How to write up your request for help...what to include (error message), system name...
+* Batch scheduler: 
+  + What is it? 
+  + why  do we need it?
+  + how do I use it? 
+  + How do I run a job?
+  + What is a network?
+  + Understanding exit codes - why jobs fail, stop, etc.
 
-How to sign on to the system - portal? Ssh? Off campus?
-
-Cluster Architecture (building a mental model of an HPC system starting from their desktop/laptop, highlight the system components and translate them to HPC system architecture)
-* What is a compute node
-* What is a storage node
-* Login vs compute node
-* Network and it’s importance
-* File system (shared) 
-§
-Basic linux - 
-* what is a shell?  
-* Basic commands, navigation, creating and saving files
-
-Basic scripting
-
-Editor
-
-How to be a user
-* File management
-* being in a group
-* Center policies - how long can I keep my files, backup policies, scheduled downtime 
-* Being a good citizen
-* How to get help
-* How to write up your request for help...what to include (error message), system name...
-
-Batch scheduler: 
-* What is it? 
-* why  do we need it?
-* how do I use it? 
-* How do I run a job?
-* What is a network?
-* Understanding exit codes - why jobs fail, stop, etc.
-
-Group 2:
+### Group 2
 
 Brainstorm the 5 – 10 skills you would like the provided user profile to have by the end of the workshop, and translate these skills into specific learning objectives, and group these learning objectives.
 
-Ability to submit jobs to the cluster
-Ability to schedule Jobs
-Understand resource limits in scheduler
-File system and transfer basics (Globus?)
-Understand environment variables/execution environment
-Understand Remote access to systems
-Appreciation for the meaning of Speed-Up
-Process automation
-Understand process control
-Understand pipes, background/foreground, redirection, stdio/sterr
-Understand impact of data placement, understand parallel file system and data locality, understand the differences between traditional HPC programming model on PFS and Big Data models (MapReduce)
-
+* Ability to submit jobs to the cluster
+* Ability to schedule Jobs
+* Understand resource limits in scheduler
+* File system and transfer basics (Globus?)
+* Understand environment variables/execution environment
+* Understand Remote access to systems
+* Appreciation for the meaning of Speed-Up
+* Process automation
+* Understand process control
+* Understand pipes, background/foreground, redirection, stdio/sterr
+* Understand impact of data placement, understand parallel file system and data locality, understand the differences between traditional HPC programming model on PFS and Big Data models (MapReduce)
 
 An example workshop outline with lesson modules is provided. Assuming a 1 day workshop:, What lessons are missing? What should be dropped or combined? If a longer workshop were given, what could be in Day 2?
 
-Drop workflow optimization? (too advanced)
-Drop/condense login/shell/basic *nix and assume prerequisite
-Good Citizenship may vary too much from site to site
-Maybe add Basic Performance Metrics 
+* Drop workflow optimization? (too advanced)
+* Drop/condense login/shell/basic Linux and assume prerequisite
+* Good Citizenship may vary too much from site to site
+* Maybe add Basic Performance Metrics 
 
-Group 3:
+### Group 3
 
 Brainstorm the 5 – 10 skills you would like the provided user profile to have by the end of the workshop, and translate these skills into specific learning objectives, and group these learning objectives.
 
-Log in to remote cluster
-Remote file transfer, access
-Software module environments
-Run ”Pleasantly”/“Delightfully”/”Embarrassingly” Parallel interactively
-Submit a batch job for ^
-Use git/version control for workflow management (batch files, directory structure)
-Make a change to ^ batch script and commit change
-How to compile (and run) a code
-
+* Log in to remote cluster
+* Remote file transfer, access
+* Software module environments
+* Run ”Pleasantly”/“Delightfully”/”Embarrassingly” Parallel interactively
+* Submit a batch job for ^
+* Use git/version control for workflow management (batch files, directory structure)
+* Make a change to ^ batch script and commit change
+* How to compile (and run) a code
 
 An example workshop outline with lesson modules is provided. Assuming a 1 day workshop:, What lessons are missing? What should be dropped or combined? If a longer workshop were given, what could be in Day 2?
 
-Missing
-Version controlled workflow(s)
-* Markdown (for docs)
+* Missing
+  + Version controlled workflow(s)
+  + Markdown (for docs)
 
-Other resources/quality references for further learning
+Other resources/quality references for further learning:
 * Oakridge national lab trainings etc. (TACC, XSEDE, git scm)
 * Communities to join: SIGHPC, SIGHPC-ED, 
 
-Vocabulary/jargon for/in HPC
+Vocabulary/jargon for/in HPC:
 * What is QoS?
 
-Interacting with your support community
+Interacting with your support community:
 * How (and who) to ask for help
 * How to find/read bug reports for software you are using
 * How to file a (helpful) bug ticket
 
-Group 4:
+### Group 4
 
 Brainstorm the 5 – 10 skills you would like the provided user profile to have by the end of the workshop, and translate these skills into specific learning objectives, and group these learning objectives.
 
-Practical (technical)
-ssh and scp: data transfer
-Command line basics
-File system: creating, organising, navigating, file permissions
-Executing applications (either your own or centrally installed)
-Being able to run batch jobs (and find your output), checking status of jobs
+#### Practical (technical)
+* ssh and scp: data transfer
+* Command line basics
+* File system: creating, organising, navigating, file permissions
+* Executing applications (either your own or centrally installed)
+* Being able to run batch jobs (and find your output), checking status of jobs
 
-Practical (non-technical)
-Where to get help when you get stuck (e.g. documentation)
-Etiquette on a multi-user system  and implications for you
-Troubleshootling strategies
+#### Practical (non-technical)
+* Where to get help when you get stuck (e.g. documentation)
+* Etiquette on a multi-user system  and implications for you
+* Troubleshootling strategies
 
-
-Conceptual:
-Basic HPC architecture and implications
-Differences from your laptop/workstation
-Why should I use HPC? What can it give me? When should should I use HPC?
-Parallelism and parallel processing
-Understand terminology and jargon
-
+#### Conceptual:
+* Basic HPC architecture and implications
+* Differences from your laptop/workstation
+* Why should I use HPC? What can it give me? When should should I use HPC?
+* Parallelism and parallel processing
+* Understand terminology and jargon
 
 An example workshop outline with lesson modules is provided. Assuming a 1 day workshop:, What lessons are missing? What should be dropped or combined? If a longer workshop were given, what could be in Day 2?
 
-MIssing:
-Conceptual content missing: why HPC? Basic HPC architectures
+Missing:
+* Conceptual content missing: why HPC? Basic HPC architectures
 
-What 2 day:
-Intermediate shell topics
-Testing jobs while running interactively
-Using software modules
-Running parallel tasks
-Running parallel code
-Optimizing workflows
-Capstone: 
+What should be on day 2:
+* Intermediate shell topics
+* Testing jobs while running interactively
+* Using software modules
+* Running parallel tasks
+* Running parallel code
+* Optimizing workflows
 
-Group 5:
+### Group 5
 
 Brainstorm the 5 – 10 skills you would like the provided user profile to have by the end of the workshop, and translate these skills into specific learning objectives, and group these learning objectives.
 
-Understand how to access the system.
-* What is SSH? (or alternative)
-
-Understand the basic software environment.
-* Basic system environment.
-* Editing files.
-* Compilers
-
-Understand the scheduler
-* What is a scheduler?
-* What is a job?
-* How to submit a job
-* How to check the status of a job
-* How to kill a job
-* What is the wall clock
-* Why hasn’t my job started yet?  Why is my job queued?
-* Where’s my output?
-
-Understand that simply running on a supercomputer will not speed up my code
-* Users should understand they will have to modify/parallelize their code to get an improvement.
-
+* Understand how to access the system.
+  + What is SSH? (or alternative)
+* Understand the basic software environment.
+  + Basic system environment.
+  + Editing files.
+  + Compilers
+* Understand the scheduler
+  + What is a scheduler?
+  + What is a job?
+  + How to submit a job
+  + How to check the status of a job
+  + How to kill a job
+  + What is the wall clock
+  + Why hasn’t my job started yet?  Why is my job queued?
+  + Where’s my output?
+* Understand that simply running on a supercomputer will not speed up my code
+  + Users should understand they will have to modify/parallelize their code to get an improvement.
 

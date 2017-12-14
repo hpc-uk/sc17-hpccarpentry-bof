@@ -1,6 +1,6 @@
 # SC17 Birds of a Feather - HPC Carpentry: Practical, Hands-on HPC Training
 
-**Tuesday, November 14th, 17:15 - 19:00, Rooms 301-303**
+Took place SC17, Denver on **Tuesday, November 14th, 17:15 - 19:00, Rooms 301-303**
 
 [http://sc17.supercomputing.org/presentation/?id=bof125&sess=sess359](http://sc17.supercomputing.org/presentation/?id=bof125&sess=sess359)
 
@@ -72,6 +72,8 @@ experiences from the initial events.
 
 ## Activities
 
+This section has now been updated with analysis of the activity outputs
+
 ### What do you want to get out of this BoF?
 
 1. Votes: 33 Understand requirements for HPC Carpentry training from HPC community
@@ -90,7 +92,13 @@ experiences from the initial events.
 14. Votes: 1 Understand what HPC Programing actually is? Is it multi-threaded, multi-node, GPU/Accelerators ? A hybrid of all three?
 15. Votes: -4 What languages should we focus on for HPC Carpentry?
 
+### Analysis of exercise outputs
+
+* [Analysis of the exercise outputs](outputs.html)
+
 ### Discussion Notes
+
+The raw notes from the discussion groups
 
 * [Group 1 Notes](https://docs.google.com/document/d/1tNUdl913eAGGREdAQTT5QuWyO7PVAx3dxddeL4xC7ig/edit?usp=sharing)
 * [Group 2 Notes](https://docs.google.com/document/d/1Rceo3gEh_CXYmKTeZPzxJbfqWrULKuZ-gBuESeyIN4Y/edit?usp=sharing)
