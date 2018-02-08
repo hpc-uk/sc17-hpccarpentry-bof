@@ -4,6 +4,12 @@ Took place SC17, Denver on **Tuesday, November 14th, 17:15 - 19:00, Rooms 301-30
 
 [http://sc17.supercomputing.org/presentation/?id=bof125&sess=sess359](http://sc17.supercomputing.org/presentation/?id=bof125&sess=sess359)
 
+## Session Report
+
+The BoF session was written up:
+
+* [HPC Carpentry SC17 BoF Report](sc17-hpcarpentry-bof-report.pdf)
+
 ## Agenda
 
 * 17:15	Introduction: Andy Turner
