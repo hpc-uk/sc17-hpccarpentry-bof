@@ -8,7 +8,7 @@ Took place SC17, Denver on **Tuesday, November 14th, 17:15 - 19:00, Rooms 301-30
 
 The BoF session was written up:
 
-* [HPC Carpentry SC17 BoF Report](sc17-hpcarpentry-bof-report.pdf)
+* [HPC Carpentry SC17 BoF Report](pdf/sc17-hpcarpentry-bof-report.pdf)
 
 ## Agenda
 
