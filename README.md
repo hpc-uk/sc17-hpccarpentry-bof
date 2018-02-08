@@ -8,25 +8,25 @@ Took place SC17, Denver on **Tuesday, November 14th, 17:15 - 19:00, Rooms 301-30
 
 The BoF session was written up:
 
-* [HPC Carpentry SC17 BoF Report](pdf/sc17-hpcarpentry-bof-report.pdf)
+* [HPC Carpentry SC17 BoF Report]({{ site.baseurl }}/pdf/sc17-hpcarpentry-bof-report.pdf)
 
 ## Agenda
 
 * 17:15	Introduction: Andy Turner
-  + [Link to Slides](Presentations/SC17_HPCCarpentry_BoF_Intro_AndyT.pdf)
+  + [Link to Slides]({{ site.baseurl }}/Presentations/SC17_HPCCarpentry_BoF_Intro_AndyT.pdf)
 * 17:20 Activity: What do you want to get out of this BoF?
   + [Link to Q&A](https://qna.live/sc17/Ym9mMTI1/)
 * 17:25	What is Carpentry?, Target audiences: Christina Koch
-  + [Link to slides](Presentations/SC17_HPCCarpentry_BoF_CarpentryLearners_ChristinaK.pdf)
+  + [Link to slides]({{ site.baseurl }}/Presentations/SC17_HPCCarpentry_BoF_CarpentryLearners_ChristinaK.pdf)
 * 17:35 Activity: Learner profiles
   + [Discussion Notes Documents](#discussion-notes)
 * 18:00 Lessons and structure: Bob Freeman
-  + [Link to slides](Presentations/SC17_HPCCarpentry_BoF_Lessons_BobF.pdf)
+  + [Link to slides]({{ site.baseurl }}/Presentations/SC17_HPCCarpentry_BoF_Lessons_BobF.pdf)
 * 18:05 Activity: Course and module design
-  + [Link to example workshop lessons](Presentations/SC17_HPCCarpentry_BoF_Example_Lessons.pdf)
+  + [Link to example workshop lessons]({{ site.baseurl }}/Presentations/SC17_HPCCarpentry_BoF_Example_Lessons.pdf)
   + [Discussion Notes Documents](#discussion-notes)
 * 18:30 Ongoing support: Andy Turner
-  + [Link to slides](Presentations/SC17_HPCCarpentry_BoF_Support_AndyT.pdf)
+  + [Link to slides]({{ site.baseurl }}/Presentations/SC17_HPCCarpentry_BoF_Support_AndyT.pdf)
 * 18:35 Activity: What ongoing support is needed/available?
   + [Discussion Notes Documents](#discussion-notes)
 * 18:50 Wrap up and next steps
@@ -100,7 +100,7 @@ This section has now been updated with analysis of the activity outputs
 
 ### Analysis of exercise outputs
 
-* [Analysis of the exercise outputs](outputs.html)
+* [Analysis of the exercise outputs]({{ site.baseurl }}/outputs.html)
 
 ### Discussion Notes
 
